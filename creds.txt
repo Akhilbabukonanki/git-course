@@ -1,2 +1,0 @@
-username= akhil
-password= akhil013
